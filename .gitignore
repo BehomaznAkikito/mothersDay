@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node / npm (http-server cache 等)
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.local
+*.pem
+
+# Claude Code local
+.claude/settings.local.json
+
+# Misc
+Thumbs.db
